@@ -1,0 +1,24 @@
+/* @butonlar ucun yazilan kodlar */
+.header
+  .header-right
+  .header-right-content
+  .reservation
+  .reservation-content
+  .button-reservation {
+  padding: 1.6rem 3.3rem;
+  background-color: #7a9ca5;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 1.4rem;
+}
+
+.password-section .password-box .password-box-content button {
+  width: 50rem;
+  height: 6.4rem;
+  padding: 2.3rem;
+  background: #7a9ca5;
+  font-family: "Manrope";
+  font-weight: 800;
+  font-size: 1.4rem;
+  color: #ffffff;
+}

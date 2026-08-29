@@ -1,0 +1,235 @@
+/*? @blog-single hissesinin ve elementlerinin olculeri */
+
+.blog-single {
+  width: 100%;
+  height: auto;
+}
+
+.blog-single .background-color {
+  background: #1e2c30;
+  width: 100%;
+  min-height: 62.5rem;
+}
+
+.blog-single-content-background {
+  width: 100%;
+  height: 100%;
+}
+
+.container-content {
+  width: 100%;
+  height: auto;
+}
+
+.container-main {
+  max-width: 134rem;
+  margin: 0 auto;
+  margin-top: -50rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single
+  .container
+  .blog-single-first-section {
+  width: 100%;
+}
+
+.blog-single .container .blog-single-first-section .blog-single-first-image {
+  margin-top: 5.4rem;
+  margin-bottom: 5rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left {
+  width: 50rem;
+  margin-right: 1.5rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content {
+  padding: 3.9rem auto;
+  background: #effcff;
+  border: 0.5rem solid #7a9ca5;
+  height: auto;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-content {
+  margin: 3.9rem 3.4rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-first-content
+  .name-director {
+  padding-left: 2.4rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-first-content
+  .name-director
+  #beauty {
+  text-align: center;
+  width: 13.6rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-first-content
+  .name-director
+  #director {
+  padding-top: 0.29rem;
+  padding-bottom: 0.8rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-second-content {
+  padding-top: 2.7rem;
+  padding-bottom: 2.7rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-facebook {
+  margin-left: 1.5rem;
+  margin-right: 1rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-linkedin {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right {
+  width: 70rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  h3 {
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  ul {
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+  padding-left: 3rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  ol {
+  padding-left: 3rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  #face-massage {
+  margin-top: 1.4rem;
+  margin-bottom: 5rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  h4 {
+  margin-bottom: 1.3rem;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  .quotes {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  width: 100%;
+  height: auto;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  .quotes
+  .quotes-first {
+  width: 2.8rem;
+  background: #7a9ca5;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  .quotes
+  .quotes-second {
+  background: #effcff;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-right
+  .blog-single-second-section-right-content
+  .quotes
+  .quotes-second-content {
+  padding: 3.5rem 4.588rem 3.5rem 4.3rem;
+}

@@ -1,0 +1,196 @@
+/* @iconlar ucun yazilan kodlar */
+
+/*! @header icons */
+
+.header
+  .header-left
+  .header-left-content
+  .header-left-first-content
+  .logo-name
+  .logo
+  img {
+  width: 3.3rem;
+  height: 3.3rem;
+}
+
+.header
+  .header-left
+  .header-left-content
+  .header-left-second-content
+  .contact
+  .call
+  img {
+  width: 2.089rem;
+  height: 2.093rem;
+}
+
+.header
+  .header-right
+  .header-right-content
+  .sosial-icon
+  .sosial-icon-content
+  .facebook
+  i,
+.header
+  .header-right
+  .header-right-content
+  .sosial-icon
+  .sosial-icon-content
+  .twitter
+  i,
+.header
+  .header-right
+  .header-right-content
+  .sosial-icon
+  .sosial-icon-content
+  .linkedin
+  i {
+  color: #141414;
+  font-weight: 400;
+  font-size: 1.6rem;
+}
+
+.header .header-right .header-right-content .sosial-icon .hidden i {
+  color: #141414;
+  font-size: 1.6rem;
+  display: none;
+}
+
+/*! @blog-single icon */
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-facebook {
+  padding: 1.2rem 1.6rem 1.1rem 1.7rem;
+  border: 0.1rem solid #7a9ca5;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-facebook
+  i {
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: #141414;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-twitter {
+  padding: 1.2rem 1.3rem 1.1rem 1.4rem;
+  border: 0.1rem solid #7a9ca5;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-twitter
+  i {
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: #141414;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-linkedin {
+  padding: 1.2rem 1.4rem 1.1rem 1.5rem;
+  border: 0.1rem solid #7a9ca5;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-linkedin
+  i {
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: #141414;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-instagram {
+  padding: 1.1rem 1.4rem;
+  border: 0.1rem solid #7a9ca5;
+}
+
+.blog-single
+  .container
+  .blog-single-second-section
+  .blog-single-second-section-left
+  .blog-single-second-section-left-content
+  .blog-single-second-section-left-content-third-content
+  .blog-single-instagram
+  i {
+  font-size: 1.9rem;
+  font-weight: 400;
+  color: #141414;
+}
+
+/*! footer section */
+
+.footer .footer-logo-name .logo img {
+  width: 6.5rem;
+  height: 6.5rem;
+}
+
+.footer .footer-sosial-icon .footer-facebook i,
+.footer .footer-sosial-icon .footer-twitter i,
+.footer .footer-sosial-icon .footer-linkedin i,
+.footer .footer-sosial-icon .footer-instagram i {
+  border: 0.2rem solid #5c8692;
+  font-weight: 400;
+  font-size: 1.8rem;
+  color: #ffffff;
+}
+.footer .footer-sosial-icon .footer-facebook i {
+  padding: 1.6rem 2.2rem 1.7rem 2.1rem;
+  margin-right: 1rem;
+}
+.footer .footer-sosial-icon .footer-twitter i {
+  padding: 1.6rem 1.8rem 1.7rem 1.9rem;
+}
+.footer .footer-sosial-icon .footer-linkedin i {
+  padding: 1.5rem 1.9rem 1.8rem 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.footer .footer-sosial-icon .footer-instagram i {
+  font-size: 1.9rem;
+  padding: 1.5rem 1.9rem 1.7rem 1.9rem;
+}
+
+/*! @password-protected */
+
+.password-section .password-box .password-box-content #key img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
