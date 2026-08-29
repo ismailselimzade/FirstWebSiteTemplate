@@ -1,1 +1,1 @@
-https://ismailselimzade.github.io/first-website-project/
+https://ismailselimzade.github.io/FirstWebSiteTemplate
